@@ -1,12 +1,12 @@
-# Generic backup files
-*~
-\#*
-.\#*
 
 # KiCad backup files
 *.bak
 *.bck
 *.kicad_pcb-bak
+*backups*/
+*~*
+*#*
+*cache*
 
 # KiCad generated files
 *.erc
