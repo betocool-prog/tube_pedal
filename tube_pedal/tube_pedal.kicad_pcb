@@ -41,6 +41,7 @@
 	(setup
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(grid_origin 76.2 38.1)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -12316,8 +12317,8 @@
 		)
 	)
 	(gr_line
-		(start 76.2 37.846)
-		(end 154.686 37.846)
+		(start 76.2 38.1)
+		(end 154.686 38.1)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -12336,7 +12337,7 @@
 		(uuid "40fc7862-8f03-46a4-a49e-3e29c7641963")
 	)
 	(gr_line
-		(start 154.686 37.846)
+		(start 154.686 38.1)
 		(end 154.686 93.98)
 		(stroke
 			(width 0.05)
@@ -12347,7 +12348,7 @@
 	)
 	(gr_line
 		(start 76.2 93.98)
-		(end 76.2 37.846)
+		(end 76.2 38.1)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -12356,7 +12357,7 @@
 		(uuid "a172df47-ff38-4670-9c0f-124823b01150")
 	)
 	(gr_text "15"
-		(at 114.3 35.56 0)
+		(at 114.3 38.1 0)
 		(layer "Cmts.User")
 		(uuid "04a94100-347f-4f53-ad47-9961bd36ab82")
 		(effects
@@ -12392,7 +12393,7 @@
 		)
 	)
 	(gr_text "5"
-		(at 88.9 35.56 0)
+		(at 88.9 38.1 0)
 		(layer "Cmts.User")
 		(uuid "1e5d8ca9-0932-45e3-9e88-d2359f93c23a")
 		(effects
@@ -12428,7 +12429,7 @@
 		)
 	)
 	(gr_text "25"
-		(at 139.7 35.56 0)
+		(at 139.7 38.1 0)
 		(layer "Cmts.User")
 		(uuid "6d810689-2a2f-478d-9836-a0d010ef25cd")
 		(effects
@@ -12440,7 +12441,7 @@
 		)
 	)
 	(gr_text "20"
-		(at 127.254 35.56 0)
+		(at 127.254 38.1 0)
 		(layer "Cmts.User")
 		(uuid "6f5d8037-11b8-4ef2-851e-13edb19efe37")
 		(effects
@@ -12452,7 +12453,7 @@
 		)
 	)
 	(gr_text "29"
-		(at 150.114 35.56 0)
+		(at 150.114 38.1 0)
 		(layer "Cmts.User")
 		(uuid "99db92f7-58c7-4256-b94c-533026340ece")
 		(effects
@@ -12464,7 +12465,7 @@
 		)
 	)
 	(gr_text "10"
-		(at 101.854 35.56 0)
+		(at 101.854 38.1 0)
 		(layer "Cmts.User")
 		(uuid "bee7f288-8191-459d-8984-e3b84d9c276a")
 		(effects
@@ -12488,7 +12489,7 @@
 		)
 	)
 	(gr_text "1"
-		(at 78.74 35.56 0)
+		(at 78.74 38.1 0)
 		(layer "Cmts.User")
 		(uuid "de2667a9-928e-48e1-89f8-7225a2b1c0d3")
 		(effects
